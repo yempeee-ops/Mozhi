@@ -1,0 +1,5 @@
+{
+  "name": "Mozhi - Casual Malayalam Translator",
+  "description": "A beautiful glassmorphism-styled tool to convert English and Manglish text or PDFs into natural, casual Malayalam using Gemini AI.",
+  "requestFramePermissions": []
+}
